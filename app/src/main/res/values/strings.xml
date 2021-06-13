@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="label" />
+    <string name="Name" />
+    <string name="Submit" />
+    <string name="image_viewer">Image Viewer</string>
+</resources>
