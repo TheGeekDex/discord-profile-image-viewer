@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
                     @Throws(AuthFailureError::class)
                     override fun getHeaders(): Map<String, String> {
                         val params: MutableMap<String, String> = HashMap()
-                        params["Authorization"] = "Bot NzQ3NjUyNzk0MTc3MjkwMzEw.X0R_7A.FYR56_4xw3F41zsmMwoAL7F9o-o"
+                        params["Authorization"] = "Bot NzQ3NjUyNzk0MTc3MjkwMzEw.X0R_7A.Oe0XAYxplIeXvNYT0gEfwIhvzDo"
                         return params
                     }
                 }
